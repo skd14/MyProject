@@ -23,5 +23,5 @@ This Python script continuously fetches the latest news articles about **Tesla**
 Install dependencies:
 
 ```bash
-pip install requests
+pip3 install requests
 
