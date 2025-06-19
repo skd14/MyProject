@@ -37,7 +37,6 @@ def fetch_latest_articles():
     except Exception as e:
         print(f"Error fetching data: {e}")
 
-# Checking
 # Simulate live stream: fetch every 60 seconds
 if __name__ == "__main__":
     while True:
