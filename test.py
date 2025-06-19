@@ -1,5 +1,5 @@
 import sys
 sys.stdout.flush()
 
-# Starting script...
+# Starting script..
 print("Starting script...", flush=True)
